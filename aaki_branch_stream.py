@@ -20,5 +20,6 @@ def main():
         #     model_output = process_image(uploaded_file)
         #     st.text_input("Model Output:", value=model_output)
 
+# checking stuff out
 if __name__ == "__main__":
     main()
